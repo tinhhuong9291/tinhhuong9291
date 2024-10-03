@@ -5,7 +5,8 @@
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinhhuong9291)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinhhuong9291&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinhhuong9291&show_icons=true)
 <!--
 Here are some ideas to get you started:
 
