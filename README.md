@@ -1,10 +1,25 @@
 ## About me 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinhhuong9291&show_icons=true)
+* Nguyễn Thành Tiến
+* Email: tien3186.tn@gmail.com
+## Images
+
+![This is an alt text.](/image/sample.webp "This is a sample image.")
+## Links
+
+You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+
+You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+
+You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinhhuong9291&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tinhhuong9291)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinhhuong9291&hide_progress=true)
+
+
+
 <!--
 Here are some ideas to get you started:
 
