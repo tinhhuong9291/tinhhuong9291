@@ -12,7 +12,6 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinhhuong9291&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tinhhuong9291)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinhhuong9291&hide_progress=true)
 
 
