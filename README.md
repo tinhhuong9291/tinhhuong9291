@@ -1,9 +1,6 @@
 ## About me 
 * Nguyễn Thành Tiến
 * Email: tien3186.tn@gmail.com
-## Images
-
-![This is an alt text.](/image/sample.webp "This is a sample image.")
 ## Links
 
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
